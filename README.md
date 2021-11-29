@@ -7,5 +7,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felcarv01/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelCarv01&langs_count=3&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelCarv01&langs_count=3&theme=onedark)
 ![FelCarv01](https://github-readme-stats.vercel.app/api?username=FelCarv01&show_icons=true&theme=onedark)
