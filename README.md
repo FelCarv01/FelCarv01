@@ -10,7 +10,7 @@
  - 🧠 Aprendendo Swift, Dart/Flutter.
 
 ### Trabalho
-Atualmente trabalho na Pede o Menu como desenvolvedor iOS.
+Atualmente trabalho como desenvolvedor Flutter.
 
 ###  Stats
 
